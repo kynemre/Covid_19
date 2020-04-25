@@ -5,8 +5,8 @@ Kodu çalıştırmak için <br>
 &emsp;Open in Playground diyerek düzenleme moduna geçiniz.<br>
 &emsp;Daha sonra menude Runtime kısmından Run All diyerek ya da CTRL+F9 yaparak kodları çalıştırabilirsiniz.<br>
   <br>
-Covid-19.ipynb - Colaboratory pdf dosyasını açarak koda ve çıktılara ulaşabilirsiniz.<br>
-Covid-19 Analiz Raporu pdf dosyasını açarak grafikleri ve yorumları görebilirsiniz.<br>
+Covid-19.ipynb - Colaboratory pdf dosyasını açarak koda, çıktılara ve açıklamalara ulaşabilirsiniz.<br>
+
 <br>
 Data Verilerine Ulaşmak İçin;<br>
 &emsp;Covid-19 Vaka-Ölüm-İyileşme Verileri: https://www.kaggle.com/imdevskp/corona-virus-report/data<br>
